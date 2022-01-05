@@ -1,0 +1,13 @@
+C:\Users\Chad\source\repos\Build A Creature\Build A Creature\bin\Debug\netcoreapp3.1\Build A Creature.exe
+C:\Users\Chad\source\repos\Build A Creature\Build A Creature\bin\Debug\netcoreapp3.1\Build A Creature.deps.json
+C:\Users\Chad\source\repos\Build A Creature\Build A Creature\bin\Debug\netcoreapp3.1\Build A Creature.runtimeconfig.json
+C:\Users\Chad\source\repos\Build A Creature\Build A Creature\bin\Debug\netcoreapp3.1\Build A Creature.runtimeconfig.dev.json
+C:\Users\Chad\source\repos\Build A Creature\Build A Creature\bin\Debug\netcoreapp3.1\Build A Creature.dll
+C:\Users\Chad\source\repos\Build A Creature\Build A Creature\bin\Debug\netcoreapp3.1\Build A Creature.pdb
+C:\Users\Chad\source\repos\Build A Creature\Build A Creature\obj\Debug\netcoreapp3.1\Build A Creature.csproj.AssemblyReference.cache
+C:\Users\Chad\source\repos\Build A Creature\Build A Creature\obj\Debug\netcoreapp3.1\Build A Creature.AssemblyInfoInputs.cache
+C:\Users\Chad\source\repos\Build A Creature\Build A Creature\obj\Debug\netcoreapp3.1\Build A Creature.AssemblyInfo.cs
+C:\Users\Chad\source\repos\Build A Creature\Build A Creature\obj\Debug\netcoreapp3.1\Build A Creature.csproj.CoreCompileInputs.cache
+C:\Users\Chad\source\repos\Build A Creature\Build A Creature\obj\Debug\netcoreapp3.1\Build A Creature.dll
+C:\Users\Chad\source\repos\Build A Creature\Build A Creature\obj\Debug\netcoreapp3.1\Build A Creature.pdb
+C:\Users\Chad\source\repos\Build A Creature\Build A Creature\obj\Debug\netcoreapp3.1\Build A Creature.genruntimeconfig.cache
