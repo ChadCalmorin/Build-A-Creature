@@ -19,9 +19,6 @@ namespace Build_A_Creature
 
             SwitchCase(headNum, bodyNum, feetNum);
 
-
-
-
         }
 
         static void RandomMode()
@@ -31,10 +28,7 @@ namespace Build_A_Creature
             int body = random.Next(1, 4);
             int feet = random.Next(1, 4);
 
-
             SwitchCase(head, body, feet);
-
-
         }
 
         static void SwitchCase(int head, int body, int feet)
@@ -108,8 +102,6 @@ namespace Build_A_Creature
                 default:
                     return 1; //must return an int, look at method signuatre
             }
-
-            
 
         }
 
