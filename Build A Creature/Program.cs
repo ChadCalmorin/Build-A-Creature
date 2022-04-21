@@ -6,9 +6,7 @@ namespace Build_A_Creature
     {
         static void Main(string[] args)
         {
-
             BuildACreature("ghost", "ghost", "bug");
-
         }
 
         static void BuildACreature(string head, string body, string feet)
@@ -18,7 +16,6 @@ namespace Build_A_Creature
             int feetNum = TranslateToNumber(feet);
 
             SwitchCase(headNum, bodyNum, feetNum);
-
         }
 
         static void RandomMode()
@@ -47,7 +44,6 @@ namespace Build_A_Creature
                 case 3:
                     MonsterHead();
                     break;
-
             }
 
             switch (body)
@@ -64,7 +60,6 @@ namespace Build_A_Creature
                 case 3:
                     MonsterBody();
                     break;
-
             }
 
             switch (feet)
@@ -81,7 +76,6 @@ namespace Build_A_Creature
                 case 3:
                     MonsterFeet();
                     break;
-
             }
 
         }
